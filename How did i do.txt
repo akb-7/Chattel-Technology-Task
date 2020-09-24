@@ -1,0 +1,8 @@
+Hi there,
+here i have converted the .ipynb to .py 
+of the repository on github
+along with that i had done the training in google colab
+and downloaded the .pkl file and set up the environment(flask)
+and installed the dependencies for the folder and ran app.py and 
+ran the request.py which helps me to get the results which is included in the 
+zip file
